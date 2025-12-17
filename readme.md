@@ -29,4 +29,4 @@ To use Disserv, run the following command:
 - If the server is a community one, you might find it on https://discordlookup.com/guild
 
 ## 🧍 What if I want to identify a user ID ?
-No need to scrape anything, the Discord API allows you to do that. You can use https://discord.id/.
+No need to scrape anything, the Discord API allows you to do that. You can use https://vaultcord.com/tools/discord-id-lookup
